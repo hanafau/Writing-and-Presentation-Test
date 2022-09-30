@@ -58,49 +58,51 @@
 
 ### Tag
 ##### Basic 
-1.  <html> --> membuka dokumen html
-2. <title> --> membuat judul halaman
-3. <body> --> membuat tubuh/inti dari halaman
+      1. <html> --> membuka dokumen html
+      2. <title> --> membuat judul halaman
+      3. <body> --> membuat tubuh/inti dari halaman
 ##### Paragraf
-1. <h1> sampai <h6> --> membuat heading
-2. <p> --> membuat paragraf
+      1. <h1> sampai <h6> --> membuat heading 
+      2. <p> --> membuat paragraf
 ##### Form
-1. <form> --> membuat form html untuk pengguna
-2. <input> --> membuat kontrol input
-3. <button> --> membuat tombol yang dapat di klik
+      1. <form> --> membuat form html untuk pengguna
+      2. <input> --> membuat kontrol input
+      3. <button> --> membuat tombol yang dapat di klik
 ##### Gambar
-1. <img> --> untuk memasukan gambar
-2. <audio> --> untuk memasukan audio
-3. <video> --> untuk memasukan video
+      1. <img> --> untuk memasukan gambar
+      2. <audio> --> untuk memasukan audio
+      3. <video> --> untuk memasukan video
 ##### Link
-1. <a> --> untuk membuat hyperlink
-2. <link> --> tag untuk menghubungkan antara dokumen dengan dokumen eksternal / biasanya untuk link ke style sheet
-3. <nav> --> membuat navigasi
+      1. <a> --> untuk membuat hyperlink
+      2. <link> --> tag untuk menghubungkan antara dokumen dengan dokumen eksternal / biasanya untuk link ke style sheet
+      3. <nav> --> membuat navigasi
 ##### List
-1. <ul>- -> membuat daftar selain nomor
-2. <ol> --> membuat daftar dengan nomor
-3. <li> --> membuat item daftar
+      1. <ul>- -> membuat daftar selain nomor
+      2. <ol> --> membuat daftar dengan nomor
+      3. <li> --> membuat item daftar
 ##### Table
-1. <table> --> membuat table
-2. <tr> --> membuat baris dalam table
-3. <td> --> membuat kolom dalam table
-
+      1. <table> --> membuat table
+      2. <tr> --> membuat baris dalam table
+      3. <td> --> membuat kolom dalam table
+  
+  
 ### Semantik
 Semantic artinya kita menggunakan element html yang sesuai dengan kebutuhan konten.
 misalnya **<div class="footer">** kita bisa menuliskannya hanya seperti ini **<footer>** jadi lebih mempermudah.
 Beberapa semantic tag yang dibawa oleh HTML5 adalah sebagai berikut:
-+ <article>
-+ <aside>
-+ <figcaption>
-+ <figure>
-+ <footer>
-+ <header>
-+ <main>
-+ <mark>
-+ <nav>
-+ <section>
-+ <summary>
-+ <time>
+  
+      + <article>
+      + <aside>
+      + <figcaption>
+      + <figure>
+      + <footer>
+      + <header>
+      + <main>
+      + <mark>
+      + <nav>
+      + <section>
+      + <summary>
+      + <time>
 
 ### Deployment
 Deployment adalah kegiatan yang bertujuan untuk menyebarkan aplikasi yang telah dikerjakan oleh developer. Kita dapat mendeploy suatu aplikasi dengen menggunakan salah satu layanan bernama Netlify.
@@ -134,9 +136,8 @@ contohnya
     baca nama dan nilai mahasiswa.
     jika nilai >= 60 maka
     keterangan = lulus
-    tetapi jika
+    tetapi jika tidak
     keterangan = tidak lulus
-    tulis keterangan
     
 ##### Bentuk Pseudocode
     read (nama, nilai)
@@ -144,7 +145,6 @@ contohnya
     keterangan = ‘lulus’
     else
     keterangan = ‘tidak lulus’
-    write(nama, keterangan)
 
 ##### Bentuk Program Javascript
     let nama = andi;
@@ -154,5 +154,3 @@ contohnya
     } else {
       console.log("tidak lulus");
     }
-
-
