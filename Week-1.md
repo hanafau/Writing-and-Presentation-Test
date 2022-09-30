@@ -15,6 +15,7 @@
 8. cat--> melihat isi file seluruhnya
 9. cp--> menyalin file
 10. mv--> memindah file dan bisa untuk merename
+11. rm--> untuk menghapus file
 
  
 ## Git dan Github
