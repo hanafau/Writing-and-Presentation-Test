@@ -18,7 +18,7 @@
 3. Increment dan Decrement : digunakan untuk menambah atau mengurangi bernilai 1.
 4. Arithmetic Operator : digunakan untuk melibatkan operasi matematika.
     + Tambah (+)
-    + Kuramg (-)
+    + Kurang (-)
     + Perkalian (*)
     + Pembagian (/)
     + Modulus (%)
