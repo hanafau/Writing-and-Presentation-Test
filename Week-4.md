@@ -1,5 +1,16 @@
 # Writing Week 4
-----------------------------------------------------------
+
+## **Git dan Github Lanjut**
++ GIT init : untuk membuat repositori baru.
++ GIT log : untuk melihat history perubahan yang telah dilakukan pada suatu project.
++ GIT checkout : untuk berpindah branch atau membuat branch baru.
++ GIT reset : untuk merubah ke commit sebelumnya.
++ GIT Revert : untuk membatalkan perubahan yang terjadi di git tanpa menghapus git commit sebelumnya.
++ GIT merge: untuk menyatukan branch cabang fitur yang telah kita kembangkan.
++ GIT branch : untuk menglist, membuat atau menghapus branch.
++ Clone yaitu menggandakan atau mengcopy sebuah project.
++ Fork yaitu sama halnya dengan clone namun langsung mengambil file dari repository.
+
 ## **Responsive Web**
 Responsive Web Desin yaitu suatu tampilan website yang dapat menyesuikan dengan perangkat yang digunakan. Baik dari ukuran huruf, user interface, gambar dan tata letak akan menyesuaikan dengan lebar device yan digunakan.
 ##### Cara mengakses
@@ -21,12 +32,10 @@ Grid merupakan sistem tata letak berbasis dua dimensi.
 Bootstrap adalah salah satu framework opensource yang berfungsi membuat suatu responsive website.
 ##### Cara mengakses
 Menambahkan syntax pada file html yang ada di dokumentasi bootstrap dan meletakannya pada tag head untuk css nya, dan untuk js diletakannya pada sebelum penutup tag body.
-+ Breakpoints 
-Breakpoints merupakan suatu cara yang dilakukan untuk membuat desain responsive dengan mengontrol kapan tata letak yang disesuaikan dengan ukuran perangkat tertentu.
++ Breakpoints merupakan suatu cara yang dilakukan untuk membuat desain responsive dengan mengontrol kapan tata letak yang disesuaikan dengan ukuran perangkat tertentu.
 Breakpoints pada bootstrap ada 5 yaitu sm, md, lg, xl dan xxl.
 
-+  Grid
-Grid System pada bootstrap yang terdiri dari 12 kolom default.
++  Grid System pada bootstrap yang terdiri dari 12 kolom default.
     Grid system bootstrap :
     + col-lg digunakan untuk mengatur grid pada ukuran monitor yang besar.
     + col-md digunakan pada monitor komputer berukuran sedang.
