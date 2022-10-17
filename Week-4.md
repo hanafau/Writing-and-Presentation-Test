@@ -25,11 +25,10 @@ Menambahkan syntax pada file html yang ada di dokumentasi bootstrap dan meletaka
 Breakpoints merupakan suatu cara yang dilakukan untuk membuat desain responsive dengan mengontrol kapan tata letak yang disesuaikan dengan ukuran perangkat tertentu.
 Breakpoints pada bootstrap ada 5 yaitu sm, md, lg, xl dan xxl.
 
-+ Grid
++  Grid
 Grid System pada bootstrap yang terdiri dari 12 kolom default.
-Grid system bootstrap :
-+ col-lg digunakan untuk mengatur grid pada ukuran monitor yang besar
-+ col-md digunakan pada monitor komputer berukuran sedang
-+ col-sm digunakan untuk mengatur monitor pada tablet
-+ col-xs digunakan untuk mengatur monitor pada handphone
-
+    Grid system bootstrap :
+    + col-lg digunakan untuk mengatur grid pada ukuran monitor yang besar.
+    + col-md digunakan pada monitor komputer berukuran sedang.
+    + col-sm digunakan untuk mengatur monitor pada tablet.
+    + col-xs digunakan untuk mengatur monitor pada handphone.
