@@ -21,11 +21,11 @@ Grid merupakan sistem tata letak berbasis dua dimensi.
 Bootstrap adalah salah satu framework opensource yang berfungsi membuat suatu responsive website.
 ##### Cara mengakses
 Menambahkan syntax pada file html yang ada di dokumentasi bootstrap dan meletakannya pada tag head untuk css nya, dan untuk js diletakannya pada sebelum penutup tag body.
-##### Breakpoints 
++ Breakpoints 
 Breakpoints merupakan suatu cara yang dilakukan untuk membuat desain responsive dengan mengontrol kapan tata letak yang disesuaikan dengan ukuran perangkat tertentu.
 Breakpoints pada bootstrap ada 5 yaitu sm, md, lg, xl dan xxl.
 
-##### Grid
++ Grid
 Grid System pada bootstrap yang terdiri dari 12 kolom default.
 Grid system bootstrap :
 col-lg digunakan untuk mengatur grid pada ukuran monitor yang besar
